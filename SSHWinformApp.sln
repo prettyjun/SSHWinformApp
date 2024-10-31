@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSHWinformApp", "SSHWinformApp.csproj", "{970C8130-1FF1-425D-B6EA-ABEC3634551A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970C8130-1FF1-425D-B6EA-ABEC3634551A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C8130-1FF1-425D-B6EA-ABEC3634551A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C8130-1FF1-425D-B6EA-ABEC3634551A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C8130-1FF1-425D-B6EA-ABEC3634551A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC98554-28AA-472D-A816-35D1D2BEF8E1}
+	EndGlobalSection
+EndGlobal
